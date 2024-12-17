@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSearch.test1", "FileSearch.test1\FileSearch.test1.csproj", "{DF08B67D-1C44-4D1D-9FB4-F3F66FE7FF09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateNumber.test2", "DuplicateNumber.test2\DuplicateNumber.test2.csproj", "{632E549F-2EA2-404B-8158-3465132C0C75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge.Tests", "Challenge.Tests\Challenge.Tests.csproj", "{0B46C43E-9730-407E-9064-5AF12809651F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF08B67D-1C44-4D1D-9FB4-F3F66FE7FF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF08B67D-1C44-4D1D-9FB4-F3F66FE7FF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF08B67D-1C44-4D1D-9FB4-F3F66FE7FF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF08B67D-1C44-4D1D-9FB4-F3F66FE7FF09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{632E549F-2EA2-404B-8158-3465132C0C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632E549F-2EA2-404B-8158-3465132C0C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632E549F-2EA2-404B-8158-3465132C0C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632E549F-2EA2-404B-8158-3465132C0C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B46C43E-9730-407E-9064-5AF12809651F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B46C43E-9730-407E-9064-5AF12809651F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B46C43E-9730-407E-9064-5AF12809651F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B46C43E-9730-407E-9064-5AF12809651F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
